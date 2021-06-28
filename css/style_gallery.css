@@ -214,6 +214,10 @@ footer p {
     max-width: 100%;
     height: auto;
   }
+  .gallery_img {
+    width: 240px;
+    padding: 0;
+  }
 }
 
 @media (min-width: 600px) {
