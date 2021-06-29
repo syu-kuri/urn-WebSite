@@ -161,8 +161,8 @@ img {
   right: 0;
   bottom: 0;
   margin: auto;
-  width: 95vw;
-  height: 65vw;
+  width: 80vw;
+  height: 50vw;
   overflow-y: scroll;
 }
 /* チェックボックスの初期設定 */
